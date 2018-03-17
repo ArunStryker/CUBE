@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "623959728730",
+    "firebase_url": "https://cube-d3c5a.firebaseio.com",
+    "project_id": "cube-d3c5a",
+    "storage_bucket": "cube-d3c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623959728730:android:57b3e780eba2e8ac",
+        "android_client_info": {
+          "package_name": "com.example.christhu.cube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623959728730-1kfcarsiv6i58j0plkmksjughq5398ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6kKjAMi8c56S5c2Z8QWmDa5YV-IOM9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
